@@ -23,8 +23,8 @@
 hs_err_pid*
 
 #idea files
-.idea/*.xml
-.idea/*.iml
+.idea/**/*.xml
+.idea/**/*.iml
 .idea/.gitignore
 out/**/*.class
 out/**/*.md
