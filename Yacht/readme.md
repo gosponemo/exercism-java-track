@@ -25,6 +25,3 @@ If the dice do not satisfy the requirements of the category your solution should
 You can assume that five values will always be presented, and the value of each will be between one and six inclusively. 
 You should not assume that the dice are ordered.
 ***
-###Setup
-***
-###Tests
