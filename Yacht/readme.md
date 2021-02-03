@@ -95,5 +95,6 @@ class Yacht {
         return s;
     }
 }
+```
 </details>
 
