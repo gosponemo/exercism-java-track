@@ -26,7 +26,7 @@ You can assume that five values will always be presented, and the value of each 
 You should not assume that the dice are ordered.
 ***
 <details>
-<summary>other (interested for me) solution by kssaurab</summary>
+<summary>other (interesting for me) solution by kssaurab</summary>
 
 ```java
  
